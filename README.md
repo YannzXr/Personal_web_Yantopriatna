@@ -29,6 +29,7 @@ Teknologi yang Digunakan
 
 **User Interface Halaman Publik**
 A. Halaman Home / Artikel
+
 Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.
 
 ![Screenshot 2025-07-01 143432](https://github.com/user-attachments/assets/c3ee0654-0113-4ed5-a23f-2ccc3dab7bf6)
